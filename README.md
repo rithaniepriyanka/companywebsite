@@ -279,7 +279,7 @@ return true; }
 ![output](./static/img/v1.png)
 ![output](./static/img/v2.png)
 ![output](./static/img/v3.png)
-![output](./static/img/v4.png)
+![output](./static/img/v4.jpeg)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://rithanie.student.saveetha.in:8000/. HTML code is validated.

@@ -270,16 +270,16 @@ return true; }
 {% endblock  %}
 ```
 ## OUTPUT:
-![output](./static/img/o1.jpg)
-![output](./static/img/o2.jpg)
-![output](./static/img/o3.jpg)
-![output](./static/img/o4.jpg)
+![output](./static/img/o1.png)
+![output](./static/img/o2.png)
+![output](./static/img/o3.png)
+![output](./static/img/o4.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/v1.jpg)
-![output](./static/img/v2.jpg)
-![output](./static/img/v3.jpg)
-![output](./static/img/v4.jpg)
+![output](./static/img/v1.png)
+![output](./static/img/v2.png)
+![output](./static/img/v3.png)
+![output](./static/img/v4.png)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://rithanie.student.saveetha.in:8000/. HTML code is validated.
